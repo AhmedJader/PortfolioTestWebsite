@@ -37,7 +37,6 @@ html{
 .HOVER:hover:hover {
   transform: scale(1.2);
 }
-
 .HOVER:active:active {
   transform: scale(0.9); /* Shrink the button to 90% of its original size on click */
 }
@@ -49,6 +48,7 @@ html{
 
 .IconH{
   position: relative; top:-180px;
+  position: relative; right:-720px;
   transform: scale(0.2);
   text-align: center;
 }
@@ -63,10 +63,12 @@ html{
   padding: 10px 20px;
   font-size: 16px;
   transition: transform 0.3s ease; /* Add a transition for the transform property */
+  width: 20%;
 }
 
 .IconCss{
   position: relative; top:-550px;
+  position: relative; right:-720px;
   transform: scale(0.2);
   text-align: center;
 }
