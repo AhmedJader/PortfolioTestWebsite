@@ -46,6 +46,10 @@ html{
   transition: transform 0.3s ease; /* Add a transition for the transform property */
 }
 
+.Centermain{
+  text-align: center;
+}
+
 .IconH{
   position: relative; top:-180px;
   transform: scale(0.2);
