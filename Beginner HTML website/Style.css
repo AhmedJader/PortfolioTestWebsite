@@ -48,7 +48,6 @@ html{
 
 .IconH{
   position: relative; top:-180px;
-  position: relative; right:-720px;
   transform: scale(0.2);
   text-align: center;
 }
@@ -68,7 +67,6 @@ html{
 
 .IconCss{
   position: relative; top:-550px;
-  position: relative; right:-720px;
   transform: scale(0.2);
   text-align: center;
 }
